@@ -1,0 +1,2 @@
+# AuraBot
+Bot service
